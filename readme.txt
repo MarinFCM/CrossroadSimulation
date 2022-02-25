@@ -1,3 +1,5 @@
-Program se pokrece sa skriptom run.bat (Rađeno na Windowsu).
+Multithreaded crossroad simulation for university project. Used to learn thread synchronization.
 
-Program otvara više powershell terminala koji služe kao izlazi za sustave (kako bi ispis bio jasan)
+Usage: Run run.bat on a Windows system
+
+The program opens several powershell terminals which serve as outputs for various systems
