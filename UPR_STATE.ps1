@@ -1,0 +1,1 @@
+﻿Get-Content ./UPR_STATE.log -Wait -Tail 10

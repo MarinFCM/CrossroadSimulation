@@ -1,0 +1,1 @@
+﻿Get-Content ./SEM_STATE.log -Wait -Tail 10

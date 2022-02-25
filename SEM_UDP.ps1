@@ -1,0 +1,1 @@
+﻿Get-Content ./SEM_UDP.log -Wait -Tail 10
